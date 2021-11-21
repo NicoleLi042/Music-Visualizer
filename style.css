@@ -26,7 +26,8 @@
 }
 #fileupload {
     position: absolute;
-    top: 150px;
+    top: 60px;
+    left: 10px;
     color: white;
     z-index: 100;
 }
